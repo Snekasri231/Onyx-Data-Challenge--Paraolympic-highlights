@@ -1,4 +1,4 @@
-# Onyx-Data-Challenge--Paraolympic-highlights
+# Glory on the Global Stage: Paralympic Highlights - Onyx Data Challenge Sep 24
 # Overview
 This project visualizes Paralympic Games data, highlighting key insights on medals, winners, participation trends, and country performances. The dashboard presents a comprehensive analysis of historical Paralympic data, offering meaningful patterns in athlete achievements and country rankings.
 
